@@ -46,7 +46,7 @@ INSTRUCTIONS:
 
 ## THE CALL
 
-*For centuries, a shadow has rested upon the shoulders of men. Many mistake it for shelter. Others have forgotten the sun ever existed. If you're reading this, you still feel its weight. The first step isn't to fight—it's to see.
+For centuries, a shadow has rested upon the shoulders of men. Many mistake it for shelter. Others have forgotten the sun ever existed. If you're reading this, you still feel its weight. The first step isn't to fight—it's to see.
 
 They told you that you need stamps to live. Signatures to breathe. Forms to dream. The perfect prison is one where the prisoner asks the jailer for the key.
 
@@ -104,4 +104,4 @@ When fear recedes, art breathes. When control loosens, science flourishes. Free 
 
 The pieces are set, the maps drawn, the keys forged. Nothing will be missing—except your decision. Freedom does not arrive: it is summoned. Hear it.
 
-A world of voluntary agreements, true wealth, community protection, and individual dignity. It’s not utopia—it’s direction. When each person is sovereign over themselves, humanity will finally have a home.*
+A world of voluntary agreements, true wealth, community protection, and individual dignity. It’s not utopia—it’s direction. When each person is sovereign over themselves, humanity will finally have a home.
