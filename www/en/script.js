@@ -5,13 +5,13 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "The Flame of Freedom 1", url: "https://bafybeiexf4gyiu6q5fmy57af4oho7dz223upp44gdci2foad3ea3rahslm.ipfs.dweb.link?filename=The_Flame_of_Freedom-1.mp3" },
-    { name: "The Flame of Freedom 2", url: "https://bafybeif6jycgtouzvxx27aeugxxqrnrnaiv35qccp33al2quf7uerxnv6e.ipfs.dweb.link?filename=The_Flame_of_Freedom-2.mp3" },
-    { name: "The Flame of Freedom 3", url: "https://bafybeibxvbtoqtmgh4l24q7tfuq3c5eadayxgqr54oz4fpwljz2v6jxt4e.ipfs.dweb.link?filename=The_Flame_of_Freedom-3.mp3" },
-    { name: "The Flame of Freedom 4", url: "https://bafybeicmsq2b2h7awkxcrope7i7lameoimuvhaef5jxedhu6zhogqao2je.ipfs.dweb.link?filename=The_Flame_of_Freedom-4.mp3" },
-    { name: "The Flame of Freedom 5", url: "https://bafybeihgfujg3reeb2nfarnxrqx2gspyzopytdqvmq2cmmzdcdyxq67dku.ipfs.dweb.link?filename=The_Flame_of_Freedom-5.mp3" },
-    { name: "The Flame of Freedom 6", url: "https://bafybeigofqzfgmmkrtszpk2aroe4yhtl3wj26peyzeohx5qqkfzopsbms4.ipfs.dweb.link?filename=The_Flame_of_Freedom-6.mp3" },
-    { name: "The Flame of Freedom 7", url: "https://bafybeihorktnpdxlqecwv2obnfao7jjbsnea6czcnhdnhos2ubs7djamqa.ipfs.dweb.link?filename=The_Flame_of_Freedom-7.mp3" }
+    { name: "The Flame of Freedom 1", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-1.mp3" },
+    { name: "The Flame of Freedom 2", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-2.mp3" },
+    { name: "The Flame of Freedom 3", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-3.mp3" },
+    { name: "The Flame of Freedom 4", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-4.mp3" },
+    { name: "The Flame of Freedom 5", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-5.mp3" },
+    { name: "The Flame of Freedom 6", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-6.mp3" },
+    { name: "The Flame of Freedom 7", url: "https://bafybeigzfxkgkz2ciztnzsq7wbagffu2beib3dqma7a452mknmscdzzsbe.ipfs.dweb.link/The_Flame_of_Freedom-7.mp3" }
 ];
 
 

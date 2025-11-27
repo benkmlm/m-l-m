@@ -5,12 +5,12 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "La Llama de la Libertad 1", url: "https://bafybeigqbaj6pevfkppa57pmhstj23nci6pluawb3fduu5diipoykjpkk4.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-1.mp3" },
-    { name: "La Llama de la Libertad 2", url: "https://bafybeidq62gcukzt7p2gwo7zqisptuiroux2mz43r5vg5ct3ckwgrpsmim.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-2.mp3" },
-    { name: "La Llama de la Libertad 3", url: "https://bafybeicy7xvc6xrv4das6zg4htgucmab4nb3d5wbfjpilqy76dycabsquq.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-3.mp3" },
-    { name: "La Llama de la Libertad 4", url: "https://bafybeignf7ffynxa3iz4zxomnxhepyy2cla5jl7qxcajiqoxcpzkyi5ffq.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-4.mp3" },
-    { name: "La Llama de la Libertad 5", url: "https://bafybeicptgkf2z6tleyqizggwdpmx72wxchmvyj6qwewcu3b6bkpyxkmxy.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-5.mp3" },
-    { name: "La Llama de la Libertad 6", url: "https://bafybeiblwufrbdleszbg7mbjf75otrw3ejzbtj6a5nyiufs7ou2snohs4y.ipfs.dweb.link?filename=La_Llama_de_la_Libertad-6.mp3" }
+    { name: "La Llama de la Libertad 1", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-1.mp3" },
+    { name: "La Llama de la Libertad 2", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-2.mp3" },
+    { name: "La Llama de la Libertad 3", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-3.mp3" },
+    { name: "La Llama de la Libertad 4", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-4.mp3" },
+    { name: "La Llama de la Libertad 5", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-5.mp3" },
+    { name: "La Llama de la Libertad 6", url: "https://bafybeiffg7uxqndsorsberrniwm4lry3i5eyf3bywuwdrt2yahytjiaxe4.ipfs.dweb.link/La_Llama_de_la_Libertad-6.mp3" }
 ];
 
 

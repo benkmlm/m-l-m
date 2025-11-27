@@ -5,12 +5,12 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "Пламя Свободы 1", url: "https://bafybeidyctjvrziv43fxpx57x3lrcogbborcrssgmnvuvcltwvhh4tcpme.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-1.mp3" },
-    { name: "Пламя Свободы 2", url: "https://bafybeigvbyzu7fzy5aoasco7mmqy4gbfdw2elqz24ttii74xpqwyiqblkq.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-2.mp3" },
-    { name: "Пламя Свободы 3", url: "https://bafybeienccenlgbcsxt25k3w2oa745bgqvzaxrdgl5uvbfqymv5cabejo4.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-3.mp3" },
-    { name: "Пламя Свободы 4", url: "https://bafybeie4jisx26aqjaibjosrgmfwtiqwokrwp66xqujtsi3p7vx4txlg7m.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-4.mp3" },
-    { name: "Пламя Свободы 5", url: "https://bafybeidhlopjypxwl557ll6554fndtkgsbfg7s2ipegeuhm56s4q7r7rua.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-5.mp3" },
-    { name: "Пламя Свободы 6", url: "https://bafybeibdegsjuwvgfvtwkswqxonkstfi6oalcytsftchzter2omtyxz7fu.ipfs.dweb.link?filename=%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-6.mp3" }
+    { name: "Пламя Свободы 1", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-1.mp3" },
+    { name: "Пламя Свободы 2", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-2.mp3" },
+    { name: "Пламя Свободы 3", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-3.mp3" },
+    { name: "Пламя Свободы 4", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-4.mp3" },
+    { name: "Пламя Свободы 5", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-5.mp3" },
+    { name: "Пламя Свободы 6", url: "https://bafybeietf74upz7ocslhae2x7uoeptn4h5ac2xfelcgzs3wsvzo3ld6gke.ipfs.dweb.link/%D0%9F%D0%BB%D0%B0%D0%BC%D1%8F_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%8B-6.mp3" }
 ];
 
 

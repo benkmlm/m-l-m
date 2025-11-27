@@ -5,12 +5,12 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "La Flamme de la Liberté 1", url: "https://bafybeicga4qw4pwnm4s4ozzp7thgiew5ayhq2dese3srd3swwzzsfbvuyu.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-1.mp3" },
-    { name: "La Flamme de la Liberté 2", url: "https://bafybeigxojnebenojvsdsuhnysbb33h7uk35rpejzsnygipvp4gustzwkm.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-2.mp3" },
-    { name: "La Flamme de la Liberté 3", url: "https://bafybeidkul44pbodhyt3ivgvd7yfjktea66phpxix2c65n5ltobhk7ai5y.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-3.mp3" },
-    { name: "La Flamme de la Liberté 4", url: "https://bafybeihaopobp6qdhcz4aoekxgobid32nncvkxzon72qxo6v3ka4ybauui.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-4.mp3" },
-    { name: "La Flamme de la Liberté 5", url: "https://bafybeiggj3isd37keyshraqh4thngdrpb6jav4kn5roel66mulsc6wujaq.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-5.mp3" },
-    { name: "La Flamme de la Liberté 6", url: "https://bafybeieoqld7dp27wj3tibjsp4oyasm2z7jwx6sty3cm7yiquv3p22gzgy.ipfs.dweb.link?filename=La_Flamme_de_la_Liberte-6.mp3" }
+    { name: "La Flamme de la Liberté 1", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-1.mp3" },
+    { name: "La Flamme de la Liberté 2", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-2.mp3" },
+    { name: "La Flamme de la Liberté 3", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-3.mp3" },
+    { name: "La Flamme de la Liberté 4", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-4.mp3" },
+    { name: "La Flamme de la Liberté 5", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-5.mp3" },
+    { name: "La Flamme de la Liberté 6", url: "https://bafybeif2s6i2jyrmfk2qqrvrdiytdvq4ytrjvdev2i6525s2ujzlytr75e.ipfs.dweb.link/La_Flamme_de_la_Liberte-6.mp3" }
 ];
 
 

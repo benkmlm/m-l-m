@@ -5,12 +5,12 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "D'Flamme vo de Freiheit 1", url: "https://bafybeihrufwcz5zx7bepvxei5mfs2dsfotachxz4d7fuj7weh4524vhnqq.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-1.mp3" },
-    { name: "D'Flamme vo de Freiheit 2", url: "https://bafybeicgexpzbxd2c5nm7whwqsfcwyz3ouyqv6zmwzu7fiadtougi6mtau.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-2.mp3" },
-    { name: "D'Flamme vo de Freiheit 3", url: "https://bafybeihx5dy3h2mylhflbrh3xpwmenqtaiccap236uuktwdd2lgpv5jqom.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-3.mp3" },
-    { name: "D'Flamme vo de Freiheit 4", url: "https://bafybeia4wdv7yitx3bifvececgkcbj2imchuejdo3coiuzp7erionycvni.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-4.mp3" },
-    { name: "D'Flamme vo de Freiheit 5", url: "https://bafybeigkqhhdyyk62u7vir2dkjkeybjsi6ooyajb2fqdluybbtznmk3dpu.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-5.mp3" },
-    { name: "D'Flamme vo de Freiheit 6", url: "https://bafybeib7yrgsj2rjizvjcogauongorzpgiiiroxyngzsavn422jyszbpdi.ipfs.dweb.link?filename=D_Flamme_vo_de_Freiheit-6.mp3" }
+    { name: "D'Flamme vo de Freiheit 1", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-1.mp3" },
+    { name: "D'Flamme vo de Freiheit 2", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-2.mp3" },
+    { name: "D'Flamme vo de Freiheit 3", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-3.mp3" },
+    { name: "D'Flamme vo de Freiheit 4", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-4.mp3" },
+    { name: "D'Flamme vo de Freiheit 5", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-5.mp3" },
+    { name: "D'Flamme vo de Freiheit 6", url: "https://bafybeiblnzj7zhm2yajo4ewslwxtjfnsznjwvgv3e5i5evjpr4jfqgpmxi.ipfs.dweb.link/D_Flamme_vo_de_Freiheit-6.mp3" }
 ];
 
 

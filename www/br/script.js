@@ -5,12 +5,12 @@ let playing = false;
 
 
 const MUSICS = [
-    { name: "A Chama da Liberdade 1", url: "https://bafybeiep66iosli2tw2ge6h4qp2x4xbcodhzg5s3mu3b7ymt23nyppmv5u.ipfs.dweb.link?filename=A_Chama_da_Liberdade-1.mp3" },
-    { name: "A Chama da Liberdade 2", url: "https://bafybeieclzttipz3y67znk7swfw6ya7h6smwlsvl2hy3jbtj526uxpbydm.ipfs.dweb.link?filename=A_Chama_da_Liberdade-2.mp3" },
-    { name: "A Chama da Liberdade 3", url: "https://bafybeibyeatiqksaffjuk5wvz2c4nwgtdwat5aen2ezvxirphzndysacsi.ipfs.dweb.link?filename=A_Chama_da_Liberdade-3.mp3" },
-    { name: "A Chama da Liberdade 4", url: "https://bafybeifcxjy4bxzbjcgqoe5gtlrvxn3vkfc3l6l5djz27are7nhoj5utva.ipfs.dweb.link?filename=A_Chama_da_Liberdade-4.mp3" },
-    { name: "A Chama da Liberdade 5", url: "https://bafybeicnuhhkrllpdvqdvycmq7kveh2np6fuvf5a4ddiudm3ufwsph6kpy.ipfs.dweb.link?filename=A_Chama_da_Liberdade-5.mp3" },
-    { name: "A Chama da Liberdade 6", url: "https://bafybeifa6rz42j453fwfuneyqyukc7i4pbhzl74dfehaw74omncbqbqde4.ipfs.dweb.link?filename=A_Chama_da_Liberdade-6.mp3" }
+    { name: "A Chama da Liberdade 1", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-1.mp3" },
+    { name: "A Chama da Liberdade 2", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-2.mp3" },
+    { name: "A Chama da Liberdade 3", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-3.mp3" },
+    { name: "A Chama da Liberdade 4", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-4.mp3" },
+    { name: "A Chama da Liberdade 5", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-5.mp3" },
+    { name: "A Chama da Liberdade 6", url: "https://bafybeieksez7olm5ag47l3rjktqol5euenujeudqzgxdoauqh6xrdcgflm.ipfs.dweb.link/A_Chama_da_Liberdade-6.mp3" }
 ];
 
 
